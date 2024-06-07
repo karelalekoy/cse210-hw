@@ -1,0 +1,3 @@
+0
+EternalGoal|sleep 8 hours a day|sleeping well |30
+SimpleGoal|read the scriptures|read 1 chapter per day|11|False
